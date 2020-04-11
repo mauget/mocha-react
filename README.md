@@ -1,6 +1,7 @@
-# Reference Mocha Testing of React
+#Mocha Testing React
 
 This application created via the React cli, invoked by Webstorm.
+It shows baseic testing of a React application via `mocha`.
 
 ## Reference
 The app and its test added to the boilerplate per the following referenence:
