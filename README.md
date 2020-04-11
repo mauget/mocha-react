@@ -1,3 +1,26 @@
+# Reference Mocha Testing of React
+
+This application created via the React cli, invoked by Webstorm.
+
+## Reference
+The app and its test added to the boilerplate per the following referenence:
+
+https://www.pluralsight.com/guides/unit-test-react-component-mocha 
+
+Note that there is no test runner wrapper. This project shows barefones
+_mocha_ using the _chai_ assertion library. 
+
+## Run App
+
+`yarn start`
+
+## Run Test
+
+` mocha --require babel-register ./src/*.test.js`
+
+Don't omit the `--require`.
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
