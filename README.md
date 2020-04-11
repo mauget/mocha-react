@@ -16,9 +16,12 @@ _mocha_ using the _chai_ assertion library.
 
 ## Run Test
 
+Run `yarn test` that wraps the following command:
+
 ` mocha --require babel-register ./src/*.test.js`
 
 Don't omit the `--require`.
+ 
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
